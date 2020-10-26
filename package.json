@@ -45,17 +45,17 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/Sushma0510/COMP229-MidTerm.git"
   },
   "keywords": [
     "NodeJS",
     "ExpressJS",
     "EJS"
   ],
-  "author": "Your Name Goes Here",
+  "author": "SushmaDaggubati",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/Sushma0510/COMP229-MidTerm/issues"
   },
-  "homepage": ""
+  "homepage": "https://github.com/Sushma0510/COMP229-MidTerm#readme"
 }
