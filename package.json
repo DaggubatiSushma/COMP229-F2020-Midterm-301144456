@@ -45,7 +45,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sushma0510/COMP229-MidTerm.git"
+    "url": "git+https://github.com/Sushma0510/COMP229-F2020-Midterm-301144456.git"
   },
   "keywords": [
     "NodeJS",
@@ -55,7 +55,7 @@
   "author": "SushmaDaggubati",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Sushma0510/COMP229-MidTerm/issues"
+    "url": "https://github.com/Sushma0510/COMP229-F2020-Midterm-301144456/issues"
   },
-  "homepage": "https://github.com/Sushma0510/COMP229-MidTerm#readme"
+  "homepage": "https://github.com/Sushma0510/COMP229-F2020-Midterm-301144456#readme"
 }
